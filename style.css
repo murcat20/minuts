@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    margin: 70px;
+}
+button {
+    border-radius: 50px;
+    height: 70px;
+    width: 300px;
+    font-size: 24px;
+    background-color: aquamarine;
+}
+p {
+    font-size: 30px;
+}
+input {
+    font-size: 30px;
+}
